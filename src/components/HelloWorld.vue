@@ -49,7 +49,8 @@
       </li>
       <li>
         <a href="https://github.com/vuejs/awesome-vue" target="_blank">
-          awesome-vue
+          awesome-vue 12312313213
+          sss
         </a>
       </li>
     </ul>
@@ -61,7 +62,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Welcome to Your Vue.js App s'
     }
   },
   methods: {}
